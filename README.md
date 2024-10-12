@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaqueBAraujo
+- 👋 Hi, I’m Jaqueline Araujo
 - 👀 I’m interested in Data Science, Python, and AI-driven solutions.
 - 🌱 I’m currently learning NTT DATA - Engenharia de Dados com Python.
 - 💬 I’m passionate about developing intelligent chatbots and enhancing customer service using vector databases.
