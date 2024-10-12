@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @JaqueBAraujo
+- 👀 I’m interested in Data Science, Python, and AI-driven solutions.
+- 🌱 I’m currently learning NTT DATA - Engenharia de Dados com Python.
+- 💬 I’m passionate about developing intelligent chatbots and enhancing customer service using vector databases.
+- 💞️ I’m looking to collaborate on projects related to conversational AI and data-driven customer service solutions.
+- 📫 How to reach me:linkedin.com/in/jaqueline-araújo-45335b27a
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love finding creative ways to solve complex problems and automate tasks!
